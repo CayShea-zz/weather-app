@@ -1,3 +1,40 @@
+# Steps to build App
+
+1) create-react-app
+2) created all components and exported/imported
+    form.jsx
+    weather.jsx
+    titles.jsx
+3) Connect to API
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
